@@ -1,0 +1,3 @@
+Alice would like to request for servers with minimum 135 CPUs for 24 hours.
+Bob would like to request as many possible servers for $38 or 10 hours.
+Charlie would like to request for minimum 180 CPUs and wouldn't want to pay for more than $65 for 6 hours.
